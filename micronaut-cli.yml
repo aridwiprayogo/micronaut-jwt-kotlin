@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.aridwiprayogo
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, docker, file-watch, flyway, graalvm, hibernate-validator, http-client, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-extension-functions, log4j2, maven, netty-server, postgres, readme, security-annotations, security-jwt, shade, testcontainers, vertx-pg-client, yaml]
